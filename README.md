@@ -1,5 +1,5 @@
 # image-captioning-style-transfer
-Image captioning with vanilla RNNs and LSTMs on the COCO dataset. Network visualizations and style transfer on SqueezeNet, which is a deep CNN pretrained to perform image classification on ImageNet.
+Image captioning with vanilla RNNs and LSTMs on the [COCO dataset](http://cocodataset.org/#home). Network visualizations and style transfer on SqueezeNet, which is a deep CNN pretrained to perform image classification on ImageNet.
 
 * [Vanilla RNN Captioning](https://github.com/alexvlis/image-captioning-style-transfer/blob/master/RNN_Captioning.ipynb)
 * [LSTM Captioning](https://github.com/alexvlis/image-captioning-style-transfer/blob/master/LSTM_Captioning.ipynb)
