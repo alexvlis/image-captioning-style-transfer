@@ -3,7 +3,10 @@ Image captioning with vanilla RNNs and LSTMs on the [COCO dataset](http://cocoda
 
 * [Vanilla RNN Captioning](https://github.com/alexvlis/image-captioning-style-transfer/blob/master/RNN_Captioning.ipynb)
 * [LSTM Captioning](https://github.com/alexvlis/image-captioning-style-transfer/blob/master/LSTM_Captioning.ipynb)
-* [SqueezeNet Network Visualizations:](https://github.com/alexvlis/image-captioning-style-transfer/blob/master/NetworkVisualization-TensorFlow.ipynb) Saliency Maps, Fooling Images, Class Visualization.
+* [SqueezeNet Network Visualizations:](https://github.com/alexvlis/image-captioning-style-transfer/blob/master/NetworkVisualization-TensorFlow.ipynb) 
+  * Saliency Maps
+  * Fooling Images
+  * Class Visualization
 * [Style Transfer:](https://github.com/alexvlis/image-captioning-style-transfer/blob/master/StyleTransfer-TensorFlow.ipynb) Style Transfer, Feature Inversion.
 
 ## Installation ##
