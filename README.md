@@ -12,7 +12,7 @@ Image captioning with vanilla RNNs and LSTMs on the [COCO dataset](http://cocoda
   <img src="images/tarantula.png" width="225"/> <img src="images/flower-pot.png" width="225"/>
 * [Style Transfer:](https://github.com/alexvlis/image-captioning-style-transfer/blob/master/StyleTransfer-TensorFlow.ipynb)
   * **Style Transfer:** <br />
-  <img src="images/style-in.png" width="425"/> <img src="images/style-out.png" width="225"/>
+  <img src="images/style-transfer.png" width="525"/>
   * **Feature Inversion:**
   <img src="images/feature-inversion.png" width="225"/>
 
